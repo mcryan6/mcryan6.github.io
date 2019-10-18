@@ -1,6 +1,6 @@
 CLASSES = {
-  0: 'The Great God Pan',
-  1: 'Lion',
+  0: 'Lion',
+  1: 'The Great God Pan',
   2: 'Alma Mater'
 };
 
